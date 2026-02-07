@@ -18,6 +18,10 @@
 3. ダイアログで以下の値を設定します：
    - **分割密度**: 一辺あたりの分割数。値を大きくすると点が多くなります。
    - **ランダム度**: 0%で格子状、数値を上げるとばらつきが大きくなります。
+    <img width="450" height="155" alt="image" src="https://github.com/user-attachments/assets/eb4dab0d-1062-403f-9842-1d6281e15da1" />
+    <img width="696" height="429" alt="image" src="https://github.com/user-attachments/assets/3aca64ca-e89d-4834-ae9a-30b5fabcda64" />
+
+
 
 ## ⚠️ 注意事項
 * **ファイルパスの制限**: 
